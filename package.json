@@ -1,0 +1,18 @@
+{
+  "name": "todos-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "local": "vercel dev"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.0",
+    "@vercel/node": "^2.8.5",
+    "vercel": "^28.11.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "jwks-rsa": "^3.0.0"
+  }
+}
