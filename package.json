@@ -12,7 +12,9 @@
     "vercel": "^28.11.0"
   },
   "dependencies": {
+    "@prisma/client": "^4.8.1",
     "jsonwebtoken": "^9.0.0",
-    "jwks-rsa": "^3.0.0"
+    "jwks-rsa": "^3.0.0",
+    "prisma": "^4.8.1"
   }
 }
